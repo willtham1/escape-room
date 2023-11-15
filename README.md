@@ -1,5 +1,5 @@
 # Escape Room
-Rachel Kroetch, Nicholas Werner, Pirooz Wallace, Paolo Rafael
+Rachel Kroetch, Nicholas Werner, Pirooz Wallace, Paolo Rafael, Will Tham
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](#license)
 
@@ -82,6 +82,8 @@ ncwerner@gmail.com
 rkroetch8@gmail.com
 
 PiroozWallace@outlook.com
+
+tham.will00@gmail.com
 
 
 ## License 
